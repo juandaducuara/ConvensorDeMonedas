@@ -16,6 +16,14 @@ Selecciona las monedas de origen y destino que deseas convertir.
 Ingresa la cantidad que deseas convertir.
 La aplicación calculará automáticamente el monto convertido y lo mostrará en pantalla.
 ¡Es así de simple! Ahora puedes realizar tus conversiones de monedas con facilidad y rapidez.
+<h2>Opciones de cambio</h2>
+
+ARS - Peso argentino
+BOB - Boliviano boliviano
+BRL - Real brasileño
+CLP - Peso chileno
+COP - Peso colombiano
+USD - Dólar estadounidense
 
 Configuración
 Esta aplicación utiliza una API externa para obtener las tasas de cambio en tiempo real. Antes de utilizar la aplicación, asegúrate de tener una conexión a Internet activa para que la aplicación pueda acceder a la API y actualizar las tasas de cambio.
